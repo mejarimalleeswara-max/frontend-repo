@@ -1,0 +1,53 @@
+h1 {
+    background-color:chartreuse;
+    color:blue;
+    border:3px solid blue;
+    border-radius:20px;
+    margin-left:10px;
+}
+.fixed{
+    position:fixed;
+    top:500px;
+    background-color:brown;
+    color:white;
+    margin-left:600px;
+    height:30px;
+    border-radius:10px;
+}
+h2{
+    background-color: chartreuse;
+    color:blue;
+    border:3px solid blue;
+    
+}
+body{
+    border:5px solid blue;
+    margin-left:10px;
+    width:800px;
+    padding-left:10px;
+    
+}
+footer{
+    background-color:black;
+    color:white;
+    padding-left:10px;
+}
+h5{
+    margin-left:30px;
+    font-size: 30px;
+}
+h4{
+    background-color:cyan;
+    color:blue;
+    width:200px;
+}
+ol{
+    color:darkkhaki;
+}
+li{
+    color:blueviolet;
+}
+img[src*=environmental]{
+    width:500px;
+    border:5px solid crimson;
+}
