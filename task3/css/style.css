@@ -1,0 +1,43 @@
+h1{
+    background-color: brown;
+    color:white;
+}
+h2{
+    color:blue;
+    background-color: chartreuse;
+    border:3px solid blue;
+    border-radius:7px;
+    padding:20px;
+}
+.green{
+    color:green;
+    padding-left: 20px;
+}
+.fixed{
+    
+    border:3px solid green;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: fixed;
+    bottom: 200px;
+    margin-left:500px;
+}
+body{
+    border: 3px solid gold;
+    width:900px;
+    padding-left:20px;
+    
+}
+footer{
+    background-color:black;
+    color:white;
+    height:30px;
+}
+h4{
+    background-color:brown;
+    color:white;
+    width:300px;
+    font-size:18px;
+}
+h5{
+    color:darkblue;
+}

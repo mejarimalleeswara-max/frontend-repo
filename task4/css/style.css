@@ -1,0 +1,22 @@
+
+header{
+    background-color:coral;
+    color:blue;
+    text-align:center;
+    border-bottom: 3px solid blue;
+}
+.float{
+    float:right;
+    background-color: brown;
+    color:white;
+}
+h2{
+    background-color: blue;
+    color:gold;
+    width:100px;
+    margin-left:20px;
+}
+body{
+    border:5px solid blue;
+    border-radius:10px;
+}
