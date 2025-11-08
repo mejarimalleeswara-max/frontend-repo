@@ -1,0 +1,61 @@
+.container-flex{
+    display: flex;
+    
+}
+.technology{
+    height:600px;
+    width:400px;
+    background-color:#00ff;
+    color:#FFFFFF;
+}
+.information{
+    height:600px;
+    width:400px;
+    background-color:#8B4000;
+}
+.innovation{
+    height:600px;
+    width:400px;
+    background-color:#7fff00;
+    color:#0000ff;
+}
+.block{
+    display:block;
+}
+.media{
+    background-color:#8B4000;
+    color:#FFFFFF
+}
+.ai{
+    background-color: #7fff00;
+    color:#0000ff;
+}
+.privacy{
+    background-color:#d2691e;
+    color:#0000ff; 
+}
+.inline-flex{
+    display:inline-flex;
+    height:600px;
+    width:800px;
+
+}
+.whatsup{
+    background-color:#7fffd4;
+    color:#0000ff;
+}
+.facebook{
+    background-color:#d2691e;
+    color:#00008b;
+}
+.twitter{
+    background-color:#7fff00;
+    color:#0000ff;
+}
+h1{
+    border:3px solid #adff2f;
+    text-align:center;
+    background-color: #00008b;
+    color:#FFFFFF;
+    border-radius:50px;
+}
