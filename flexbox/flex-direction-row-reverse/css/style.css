@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+    flex-direction:row-reverse;
+    height:700px;
+    
+    justify-content:space-around;
+}
+.item{
+    height:500px;
+    width:400px;
+}
+#a1{
+    background-color:chartreuse;
+    flex-grow: 2;
+}
+#a2{
+    background-color:blue;
+    flex-grow: 1;
+    
+}
+#a3{
+    background-color:black;
+    color:white;
+    flex-grow: 2;
+}
