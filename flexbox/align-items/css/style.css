@@ -1,0 +1,16 @@
+.container{
+    display:inline-flex;
+    align-items:stretch ;
+    height: 1000px;
+}
+.cars{
+    min-height:500px;
+    width:400px;
+    background-color:#0000ff;
+}
+.bikes{
+    height:500px;
+    width:400px;
+    background-color:#ffe4c4;
+    color:#0000ff;
+}
