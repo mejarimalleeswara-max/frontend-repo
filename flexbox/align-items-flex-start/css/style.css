@@ -1,0 +1,41 @@
+.container{
+    display:flex;
+    align-items: flex-start;
+    height:1000px;
+}
+.cat{
+    background-color: #0000ff;
+    color:#fff;
+    height:800px;
+    width:300px;
+}
+img[src*=catimage]{
+
+    height:300px;
+    width:200px;
+}
+figcaption{
+    text-align: center;
+    border:3px solid #fff;
+    height:30px;
+}
+.dog{
+    background-color:#7fff00;
+    color:#0000ff;
+    height:800px;
+    width:300px
+}
+img[src*=dog1]{
+    height:300px;
+    width:230px;
+}
+.hen{
+    background-color:#ff7f50;
+    color:#0000ff;
+    height:800px;
+    width:400px;
+}
+img[src*=hen]{
+    height:300px;
+    width:300px;
+}

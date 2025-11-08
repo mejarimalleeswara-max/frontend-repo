@@ -1,0 +1,29 @@
+.container{
+    display:flex;
+    height:1000px;
+    border:2px solid black;
+    align-items: center;
+}
+.item{
+    background-color: #7fff00;
+    color:#0000ff;
+    height:600px;
+    width:400px;
+    flex:1 2 150px;
+}
+.network{
+    background-color:#d2691e;
+    color:#fff;
+    height:600px;
+    width:400px;
+    flex:1 2 100px;
+}
+.relation{
+    background-color:#deb887;
+    color:#0000ff;
+    height:600px;
+    width:400px;
+    flex-grow: 1;
+    flex-shrink: 2;
+    flex-basis: 150px;
+}

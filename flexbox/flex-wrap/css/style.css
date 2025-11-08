@@ -1,0 +1,19 @@
+.container{
+  display:flex;
+  height:500px;
+  justify-content: flex-end;
+}
+.software{
+  background-color: #7fff00;
+  color:#ffffff;
+  
+}
+.hardware{
+  background-color:#0000ff;
+  color:#ffffff;
+
+}
+.computer{
+  background-color:gold;
+  color:#0000ff;
+}

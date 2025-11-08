@@ -1,0 +1,33 @@
+.container{
+    display:flex;
+    align-items:center;
+    height:1000px;
+}
+.cat{
+    background-color: #8a2be2;
+    color:#fff;
+    width:400px;
+    height:600px;
+}
+.dog{
+    background-color:#7fff00;
+    color:#8a2be2;
+    width:400px;
+    height:600px;
+}
+.hen{
+    background-color:#d2691e;
+    color:#fff;
+    width:400px;
+    height:600px;
+    
+}
+img[src*=cat]{
+    width:100px;
+}
+img[src*=dog1]{
+    width:100px;
+}
+img[src*=hen]{
+    width:100px;
+}

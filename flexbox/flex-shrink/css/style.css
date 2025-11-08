@@ -1,0 +1,26 @@
+.container{
+    display:flex;
+    
+    border:2px solid black;
+    align-content:flex-start;
+    width:800px;
+
+}
+.sports{
+    background-color:#7fff00;
+    color:#0000ff;
+    flex-shrink:2;
+
+}
+.games{
+    background-color:#d2692e;
+    color:#fff;
+    flex-shrink:1;
+}
+.atheltics{
+    background-color:#7fff00;
+    color:#0000ff;
+    flex-shrink:1;
+    
+}
+

@@ -1,0 +1,31 @@
+header{
+    display:flex;
+    
+}
+ul{
+    width:250px;
+    display:flex;
+    
+}
+li{
+    padding:2px auto;
+    list-style-type: none; 
+    margin-left:200px;
+    color:orange;
+}
+footer{
+ background-color: blanchedalmond;
+ height:100px;
+ text-align:center;   
+}
+label{
+    background-color:#FFD700;
+    color:#00ff;
+    font-family:monospace;
+    font-style: italic;
+    font-size: large;
+}
+button{
+    margin-left:70px;
+    line-height:40px;
+}

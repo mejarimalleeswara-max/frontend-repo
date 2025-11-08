@@ -1,0 +1,24 @@
+.container{
+    display:flex;
+    justify-content:space-between;
+}
+.technology{
+    background-color:#0000ff;
+    color:#eae6e6;
+    height:800px;
+    width:400px;
+}
+.green-tech{
+    background-color:#7fff00;
+    color:#0000ff;
+    height:800px;
+    width:400px;
+
+}
+.socialmedia{
+    background-color:#d2691e;
+    color:#0000ff;
+    height:800px;
+    width:400px;
+
+}

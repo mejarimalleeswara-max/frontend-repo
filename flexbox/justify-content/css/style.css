@@ -1,0 +1,24 @@
+.flex{
+    display:flex;
+    justify-content:flex-start;
+}
+.technology{
+    background-color: #0000ff;
+    color:#fff;
+    height:700px;
+    width:400px;
+}
+.green-technology{
+    background-color:#7fff00;
+    color:#0000ff;
+    height:700px;
+    width:400px;
+}
+.social-media{
+    background-color:#a52a2a;
+    color:#fff;
+    height:700px;
+    width:400px;
+}
+
+
