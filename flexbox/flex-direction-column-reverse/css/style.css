@@ -1,0 +1,20 @@
+.container{
+    display:flex;
+    flex-direction:column-reverse;
+}
+.item{
+    height:400px;
+    width:400px;
+}
+#b1{
+    background-color: chartreuse;
+    color:blue;
+}
+#b2{
+    background-color: chocolate;
+    color:white;
+}
+#b3{
+    background-color:darkblue;
+    color:white;
+}
