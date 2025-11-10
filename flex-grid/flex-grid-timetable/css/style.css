@@ -1,0 +1,35 @@
+.grid-container{
+    display:grid;
+    grid-template-rows:20px 20px 20px 20px 20px 20px 20px;
+    grid-template-columns:10% 10% 10% 10% 10% 10% 10%;
+    text-align: center;
+    row-gap: 10px;
+    column-gap:10px;
+    padding-left: 150px;;
+}
+.item{
+    background-color:black;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:18px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.style{
+    background-color:darkblue;
+    color:white;
+}
+.type{
+    background-color:chartreuse;
+    color:blue;
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    color:#ffffff;
+    margin-bottom: 50px;
+}
+.break{
+    grid-column: 2/8;
+
+}
