@@ -1,0 +1,32 @@
+.grid-container{
+    display:grid;
+    grid-template-columns:18% 18% 18%;
+    grid-template-rows:20% 20% 20%;
+    justify-content: center;
+    column-gap: 5px;
+    row-gap: 5px;
+}
+
+#item{
+    background-color:#000000;
+    color:#ffffff;
+}
+#socialmedia{
+    background-color:#7fff00;
+}
+#global{
+    background-color:#a52a2a;
+    color:#ffffff;
+}
+#twitter{
+    background-color:#00008b;
+    color:#ffffff;
+}
+#fb{
+    background-color:#b22222;
+    color:#ffffff;
+}
+#digital{
+    background-color:#ffd700;
+    color:#00008b;
+}
