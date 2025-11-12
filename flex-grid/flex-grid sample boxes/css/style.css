@@ -1,0 +1,21 @@
+.grid-container{
+    display:grid;
+    width:800px;
+    height:800px;
+    grid-template:30% 30%  30% /20% 20% 20% 20% ;
+    gap: 12px;
+    border:2px solid blue;
+    
+}
+.item{
+    background-color:orange;
+    color:blue;
+}
+#box{
+    background-color:darkblue;
+    color:white;
+}
+#boxnine{
+    background-color:brown;
+    color:white;
+}
