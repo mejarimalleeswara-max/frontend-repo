@@ -1,0 +1,33 @@
+a{
+    display:block;
+    width:500px;
+    margin:0 auto;
+    padding-top:100px;
+    padding-bottom:200px;
+    border:3px solid red;
+    border-radius:20px;
+    text-align:center;
+    background-color:#7fff00;
+    color:#0000ff;
+    font-size:32px;
+    transition-property:width;
+    transition-duration: 10s;
+    transition-timing-function:ease-in-out;
+
+}
+
+a:hover{
+    background-color:blue;
+    color:white;
+    height:300px;
+    width:700px;
+    text-transform: lowercase;
+    border:5px dotted #ffffff;
+}
+h1{
+    text-align:center;
+    padding:30px;
+    border:3px solid #ffa500;
+    margin-left:150px;
+    margin-right:150px;
+}
