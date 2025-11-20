@@ -1,0 +1,68 @@
+ul{
+    display:grid;
+    grid-template: 100% / repeat(5, 20%);
+}
+li{
+    list-style-type: none;
+    
+}
+.web{
+    display:grid;
+    color:white;
+    grid-template: 100% / 20% 80%;
+    text-transform: uppercase;
+    
+}
+.develop{
+    
+    text-align: center;
+    border:1px solid yellow;
+    margin-right:2%;
+}
+body{
+    border:3px solid gold;
+    background-image: url(/images/space.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+h2{
+    color:yellow;
+}
+h3{
+    
+    text-align:center;
+    color:orange;
+    text-transform: uppercase;
+    font-weight:large;
+    transition-property:color;
+    transition-duration:3s;
+
+}
+button{
+    background-color:orange;
+    color:blue;
+    margin-top:10px;
+}
+.desig{
+    color:white;
+    transition-property:color;
+    transition-duration:3s;
+}
+a:hover{
+    transition-property:color;
+    color:yellow;
+    transition-delay:2s;
+    
+}
+nav {
+    display: grid;
+    grid-template: 100% / 70% 30%;
+}
+h3:hover{
+    transition-property: color;
+    color:white;
+    transition-delay:2s;
+}
