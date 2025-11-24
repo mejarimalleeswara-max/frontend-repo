@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family:arial;
+    margin:0;
+    border:3px solid greenyellow;
+    padding:10%;
+    background-color:#ddd;
+}
+header{
+    padding:1%;
+    text-align:center;
+}
+nav{
+    display:flex;
+    padding:30px;
+}
+nav h3{
+    flex: 70%;
+}
+nav ul{
+    flex: 30%;
+    
+    display: inline-flex;
+}
+nav ul li {
+    padding:14px 20px;
+    list-style-type: none;
+}
+.container{
+    display:flex;
+}
+.workout{
+    flex:60%;
+}
+img[src*="gym.jpg"]{
+    height:50%;
+    width:70%;
+}
+footer{
+    padding:5%;
+    text-align:center;
+    background-color:#ddd;
+}
+button{
+    color:blue;
+    transition-property:color;
+    transition-duration:3s;
+
+}
+button:hover{
+    color:gold;
+    transition-property:color;
+}
